@@ -2,7 +2,7 @@
 title: "AAE4109 Aircraft Maintenance Practices"
 collection: teaching
 type: "Teaching Assistant in Undergraduate Course"
-permalink: /teaching/2022-teaching
+permalink: /teaching/2022-teaching-1
 venue: "The Hong Kong Polytechnic University, Department of Aeronautical and Aviation Engineering"
 date: 2022-03
 location: "HKSAR, China"
