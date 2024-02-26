@@ -1,7 +1,5 @@
 ---
-title: "AAE5105 FLEET MANAGEMENT AND AVIATION SUSTAINABILITY
-
-"
+title: "AAE5105 FLEET MANAGEMENT AND AVIATION SUSTAINABILITY"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2023-teaching
