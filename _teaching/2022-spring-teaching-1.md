@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant in Undergraduate Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "The Hong Kong Polytechnic University, Department of Aeronautical and Aviation Engineering"
-date: 2022-03
+date: 2022-03-01
 location: "HKSAR, China"
 ---
 
