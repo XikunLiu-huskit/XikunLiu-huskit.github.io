@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical design, manufacturing and automation, Huazhong University of Science and Technology, 2013-2017
+* M.S. in Mechatronics and Information Technology, Karlsruhe Institute of Technology, 2018-2021
+* Ph.D in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, 2022-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Project  Assistant, Institute of Measurement and Control Systems, Karlsruhe Institute of Technology, 09/2020 – 07/2021
+  * ANICAR project, indoor navigation, obstacle recognition and interaction, hardware platform construction
+  * Supervisor: Dr. Martin Lauer, Dr. Danial Kamran
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant, Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, 12/2021 – 08/2022
+  * LiDAR aided GNSS positioning in urban canyon
+  * Supervisor: Dr. Li-Ta Hsu, Dr. Weisong Wen
 
 Publications
 ======
@@ -54,6 +43,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Reviews
 ======
-* Currently signed in to 43 different slack teams
+* Measurement
