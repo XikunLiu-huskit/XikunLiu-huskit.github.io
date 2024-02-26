@@ -2,7 +2,7 @@
 title: "AAE5105 FLEET MANAGEMENT AND AVIATION SUSTAINABILITY"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2023-teaching
+permalink: /teaching/2023-teaching-2
 venue: "The Hong Kong Polytechnic University, Department of Aeronautical and Aviation Engineering"
 date: 2023-09
 location: "HKSAR, China"
