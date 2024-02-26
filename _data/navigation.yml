@@ -2,12 +2,15 @@
 main:
   - title: "3D LiDAR-aided (3DLA) GNSS Positioning"
     url: /projects/    
-  
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Services"
-    url: /services/     
+  - title: "Curriculum Vitae"
+    url: /Curriculum Vitae/
+  
+  #- title: "Publications"
+  #  url: /publications/
+
+  # - title: "Services"
+  #  url: /services/     
 
  # - title: "Talks"
  #   url: /talks/    
@@ -20,9 +23,6 @@ main:
         
 #  - title: "Blog Posts"
 #   url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
